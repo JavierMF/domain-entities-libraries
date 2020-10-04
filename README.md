@@ -25,12 +25,24 @@ PRs with new libraries are very wellcome!
   - Java: https://github.com/sualeh/creditcardnumber
 
 ### IBAN
+  - Java: https://github.com/arturmkrtchyan/iban4j
+  - Java: https://github.com/barend/java-iban
+  - Multiple: https://rosettacode.org/wiki/IBAN
+  - Javascript: https://github.com/arhs/iban.js
+  - Javascript: https://github.com/koblas/ibankit-js
+  - Go: https://github.com/almerlucke/go-iban
+  - Go: https://github.com/go-pascal/iban
 
 ### ShoppingCart
 
 ## Books and other publications
 
 ### ISBN
+  - Ruby: https://github.com/tkersey/isbn
+  - PHP: https://github.com/Fale/isbn
+  - PHP: https://github.com/biblys/isbn
+  - PHP: https://github.com/rebuy-de/ean-isbn-library
+  - Java: https://commons.apache.org/proper/commons-validator/apidocs/org/apache/commons/validator/routines/ISBNValidator.html
 
 ### PublishedResource
 
