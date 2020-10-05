@@ -56,6 +56,8 @@ PRs with new libraries are very wellcome!
 ## Contact info
 
 ### PhoneNumber
+ - Java, C++, Javascript: https://github.com/google/libphonenumber
+ - Many languages: https://github.com/google/libphonenumber#third-party-ports
 
 ### EmailAddress
 
@@ -127,4 +129,7 @@ PRs with new libraries are very wellcome!
 ### Quantity
 
 ### Language
+
+### HexColor
+
 
