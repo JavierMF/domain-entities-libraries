@@ -1,5 +1,5 @@
 # Libraries for DDD data types
-DDD encourages using Entities and Value Objects to model our bussiness concepts. Wen we develop several projects applying DDD (or even in our first project) we will probably create Entities and Value Objects that have already been  modeled in many other projects. This is is an error-prone practice since we will probably be forgetting cases or adding bugs that have already been faced in open-source libraries. This project is just a recap of libraries in different languages that represent common concepts so we can use as them  as data types for our Entities or Value Objects.
+DDD encourages using Entities and Value Objects to model our bussiness concepts. Wen we develop several projects applying DDD (or even in our first project) we will probably create Entities and Value Objects that have already been  modeled in many other projects. This is an error-prone practice since we will probably forget corner cases or add bugs that have already been faced in open-source libraries. This project is just a recap of libraries in different languages that represent common concepts so we can use as them as data types for our Entities or Value Objects.
 
 PRs with new libraries are very wellcome!
 
