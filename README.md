@@ -76,13 +76,20 @@ PRs with new libraries are very wellcome!
 
 ## Time
 
-### Timestamp
-
-### TimePeriod
-
-### WeekDay
-
-### Year
+### Timestamp, TimePeriod, WeekDay, Year, Seconds
+  - Java: https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html
+  - Java: https://www.joda.org/joda-time/
+  - Java: http://www.date4j.net/
+  - Java: https://github.com/MenoData/Time4J
+  - Kotlin: https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.time/
+  - Kotlin: https://github.com/debop/koda-time
+  - Kotlin: https://github.com/korlibs/klock
+  - Kotlin: https://github.com/Kotlin/kotlinx-datetime
+  - PHP: https://www.php.net/manual/en/refs.calendar.php
+  - PHP: https://github.com/brick/date-time
+  - PHP: https://carbon.nesbot.com/
+  - PHP: https://period.thephpleague.com/
+  - PHP: https://aeon-php.org/
 
 
 ## Person
@@ -123,8 +130,22 @@ PRs with new libraries are very wellcome!
 ### UserName
 
 ### IPAddress
+  - Java: https://seancfoley.github.io/IPAddress/
+  - Java: https://guava.dev/releases/20.0/api/docs/com/google/common/net/InetAddresses.html
+  - Java: https://commons.apache.org/proper/commons-validator/apidocs/org/apache/commons/validator/routines/InetAddressValidator.html
+  - Python: https://docs.python.org/3/library/ipaddress.html
+  - PHP: https://github.com/mlocati/ip-lib
+  - PHP: https://github.com/S1lentium/IPToolse
 
 ### SemVer
+  - Kotlin: https://github.com/swiftzer/semver
+  - Kotlin: https://github.com/glwithu06/Semver.kt
+  - Java: https://github.com/vdurmont/semver4j
+  - Java: https://github.com/zafarkhaja/jsemver
+  - Java: https://github.com/jlindsey/java-semver
+  - PHP: https://github.com/vierbergenlars/php-semver
+  - PHP: https://github.com/composer/semver
+  - PHP: https://github.com/naneau/semver
 
 ### Quantity
 
