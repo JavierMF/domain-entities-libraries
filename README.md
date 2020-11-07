@@ -100,16 +100,16 @@ PRs with new libraries are very wellcome!
 
 ### BirthDay
 
-### Nationality
-
-
 
 ## Physical Dimension
 
 ### Height/Width
 
 ### Distance
-
+  - Kotlin: https://github.com/nacular/measured
+  - Kotlin: https://github.com/kunalsheth/units-of-measure
+  - PHP: https://github.com/PhpUnitsOfMeasure/php-units-of-measure
+  - Java: https://github.com/unitsofmeasurement
 
 
 ## Physical Location
@@ -117,10 +117,15 @@ PRs with new libraries are very wellcome!
 ### Address
 
 ### Latitude/Longitude
-
-### Coordinates
+  - https://github.com/sshuair/awesome-gis#geospatial-library
+  - https://github.com/sacridini/Awesome-Geospatial
+  
 
 ### Country
+  - Java: Locale.getISOCountries() + https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/Locale.html#getDisplayCountry()
+  - Java: https://github.com/TakahikoKawasaki/nv-i18n
+  - PHP: https://iso3166.thephpleague.com/
+  - PHP: https://github.com/rinvex/countries
 
 
 ## Other
